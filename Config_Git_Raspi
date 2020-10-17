@@ -1,0 +1,5 @@
+Ako nakonfigurovat git pre nove prostredie:
+
+
+git config --global user.name "pdz"
+git config --global user.email "ilbient@gmail.com"
